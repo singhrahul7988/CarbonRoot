@@ -1,0 +1,11 @@
+node_modules
+mockups
+.next
+out
+dist
+.vercel
+coverage
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
