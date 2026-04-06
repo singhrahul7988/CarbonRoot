@@ -5,6 +5,8 @@ out
 dist
 .vercel
 coverage
+contracts/artifacts
+contracts/cache
 *.log
 *.tsbuildinfo
 .env*
